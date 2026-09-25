@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../Downloads/prac_NB - Alumne.asm" />
+  </Folder>
+  <Project Path="EC_PRACT_1/EC_PRACT_1.vcxproj" Id="08f4060b-4aa7-4ce2-b928-ce1312911cab" />
+</Solution>
